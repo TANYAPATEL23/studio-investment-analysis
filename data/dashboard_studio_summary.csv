@@ -1,0 +1,4 @@
+ticker,total_films,avg_roi,median_roi,avg_car_total,avg_car_day_of,avg_car_pre,avg_car_post,total_budget,total_revenue,avg_vote,pct_positive_car,studio_name,total_roi
+DIS,149,227.6,165.8,-0.22,0.12,-0.16,-0.06,19898800000,68002680184,6.84,47.65,Disney,241.74
+SONY,108,249.08,176.93,0.2,0.03,0.48,-0.28,5606200000,20025856739,6.49,56.48,Sony,257.21
+WBD,140,222.9,148.3,-1.11,-0.25,-0.59,-0.52,11715700000,35522788471,6.69,43.57,Warner Bros,203.21
