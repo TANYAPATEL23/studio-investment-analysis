@@ -270,6 +270,4 @@ The approach is consistent with semi-strong form Efficient Market Hypothesis res
 
 Built by Tanya | MS Business Analytics Candidate — Simon Business School, University of Rochester (December 2026)
 
-Targeting business analyst and data analytics roles in entertainment, beauty, luxury, retail, and CPG industries.
-
 [LinkedIn](https://www.linkedin.com/in/tanyapatel23/) | [Email](mailto:tpatel18@simon.rochester.edu)
