@@ -1,5 +1,12 @@
 # Studio Investment Analysis: Entertainment Finance & Investor Behavior (2015–2024)
 
+![Studio Investment Analysis](banner.png)
+
+[![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-dashboard-E97627?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/)
+
+
 > **Does box office performance actually move studio stock prices — and can we predict how investors will react before a film releases?**
 
 This project applies event study methodology from quantitative finance to answer a capital allocation question that entertainment CFOs face every year: are studios investing their film budgets in ways that maximize both box office return and shareholder value?
